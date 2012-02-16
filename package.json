@@ -1,0 +1,12 @@
+{ "name" : "connect-rebase-hack"
+, "version" : "0.0.1"
+, "description" : "Hack that can set basePaths for connect/socketio"
+, "repository" : 
+	{ "type" : "git"
+	, "url" : "https://github.com/lcampbell/connect-rebase-hack"
+	}
+, "license" : "BSD"
+, "engine" : {
+	{ "node" : ">=0.4"
+	}
+}
